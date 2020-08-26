@@ -1,3 +1,13 @@
+# About me
+
+Hello world, my name is Ian and this is my first attempt at showing my work.
+
+
+
+
+
+
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
