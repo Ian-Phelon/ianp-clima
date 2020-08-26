@@ -1,6 +1,6 @@
 # About me
 
-Hello world, my name is Ian and this is my first attempt at showing my work.
+Hello world, my name is Ian and this is my first attempt at showing my work. Let's get to it!
 
 
 
