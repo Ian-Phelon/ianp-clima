@@ -4,6 +4,9 @@ Hello world, my name is Ian and this is my first attempt at showing my work. Let
 *****
 *****
 *****
+I've left the original readme, as this isn't entirely my app. Angela does a great job teaching, and the coursework is challenging yet rewarding. Visit the links below.
+*****
+*****
 *****
 
 
